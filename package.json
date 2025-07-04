@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Martin Serratti",
-  "license": "MIT",
+  "license": "",
   "dependencies": {
     "kokoro-js": "^1.2.1"
   }
